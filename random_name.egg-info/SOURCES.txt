@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+adjectives.txt
+nouns.txt
+random_name.py
+setup.py
+random_name.egg-info/PKG-INFO
+random_name.egg-info/SOURCES.txt
+random_name.egg-info/dependency_links.txt
+random_name.egg-info/requires.txt
+random_name.egg-info/top_level.txt
